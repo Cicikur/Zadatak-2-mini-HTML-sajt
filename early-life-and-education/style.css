@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(207, 195, 195);
+}
+
+nav {
+    display: inline-block;
+    position: relative;
+    padding-right: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+}
+
+aside {
+
+    display: inline-block;
+    position: absolute ;
+    border-left: 1px solid black;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+}
+
+li {
+    margin-bottom: 4px;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 150px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+#slika {
+    text-align:center;
+}
